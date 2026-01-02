@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 🔹 I’m focused on **personal growth and practical learning**, especially in mobile and Android-related technologies.
-🔹 I enjoy **exploring communication-based app ideas** and understanding how modern apps are designed, optimized, and scaled.
+🔹 I enjoy **exploring communication-based app ideas** and understanding how modern apps and websites are designed, optimized, and scaled.
 🔹 Alongside tech, I actively work as a **content writer**, creating clear and engaging explanations around technology.
 
 ---
@@ -18,7 +18,6 @@
 * 📱 Exploring **Android & mobile technologies** (concepts, tools, and ecosystems)
 * 💡 Brainstorming ideas for **communication-focused applications**
 * 📚 Strengthening **programming fundamentals & problem‑solving skills**
-* ✍️ Writing tech content, guides, and explanations
 
 ---
 
@@ -26,7 +25,7 @@
 
 I’d love to collaborate on:
 
-* Beginner‑friendly **Android projects**
+* Beginner‑friendly **Android and web projects**
 * 📂 **Open‑source** mobile or documentation projects
 * 🧠 Tech + content initiatives (tutorials, guides, documentation)
 
@@ -36,7 +35,7 @@ If you’re learning or building something meaningful, let’s connect.
 
 ## 🧩 Looking for Guidance In
 
-* Advanced **Android development concepts**
+* Advanced **WEb and app development concepts**
 * 🏗️ App architecture & **clean coding practices**
 * 🚀 Converting raw ideas into **real‑world applications**
 
@@ -53,7 +52,7 @@ If you’re learning or building something meaningful, let’s connect.
 ## 💬 Ask Me About
 
 * Android smartphones & mobile technology
-* App ideas & tech explanations
+* App and web ideas & tech explanations
 * Content writing for tech platforms
 
 ---
