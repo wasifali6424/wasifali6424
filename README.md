@@ -1,115 +1,108 @@
-# 👋 Hi, I'm **Wasif Ali**
 
-> **Android & Mobile Technology Enthusiast | Content Writer | Tech Explorer**
-> Passionate about turning ideas into meaningful mobile experiences and explaining technology in simple, human language.
+# 👋 Hi, I’m **Wasif Ali**
+
+🔥 *Creative Web Developer | UI/UX Designer | Content Writer*
+
+Welcome to my GitHub — I’m passionate about crafting modern, responsive websites, clean UI/UX interfaces, and high-quality content that tells a story. :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 🚀 About Me
 
-🔹 I’m focused on **personal growth and practical learning**, especially in mobile and Android-related technologies.
-🔹 I enjoy **exploring communication-based app ideas** and understanding how modern apps and websites are designed, optimized, and scaled.
-🔹 Alongside tech, I actively work as a **content writer**, creating clear and engaging explanations around technology.
+I’m a **Web Developer & Designer** based in **Faisalabad, Pakistan**, focused on building beautiful and user-friendly web experiences. I also write engaging and professional content for tech blogs and portfolios. :contentReference[oaicite:1]{index=1}
+
+- I specialize in **modern, responsive websites** using HTML, CSS, and UX-focused design. :contentReference[oaicite:2]{index=2}  
+- I value **clean, structured code** and aesthetically pleasing interfaces. :contentReference[oaicite:3]{index=3}  
+- I’m passionate about **explaining technology in simple, human language**.  
+- I combine functionality with creativity in every digital solution I build.
 
 ---
 
-## 🛠️ What I’m Working On
+## 🛠️ Skills
 
-* 📱 Exploring **Android & mobile technologies** (concepts, tools, and ecosystems)
-* 💡 Brainstorming ideas for **communication-focused applications**
-* 📚 Strengthening **programming fundamentals & problem‑solving skills**
+### 🌐 Web Development
+✔️ **HTML5**  
+✔️ **CSS3**  
+✔️ **Responsive Layouts**  
 
----
+### 🎨 UI / UX Design
+✔️ Clean Interfaces  
+✔️ User-Centric Design  
+✔️ Aesthetic Visual Flow  
 
-## 🤝 Open to Collaboration
-
-I’d love to collaborate on:
-
-* Beginner‑friendly **Android and web projects**
-* 📂 **Open‑source** mobile or documentation projects
-* 🧠 Tech + content initiatives (tutorials, guides, documentation)
-
-If you’re learning or building something meaningful, let’s connect.
+### ✍️ Content Writing
+✔️ Professional tech content  
+✔️ Guides & portfolio writeups
 
 ---
 
-## 🧩 Looking for Guidance In
+## 📌 What I Do
 
-* Advanced **WEb and app development concepts**
-* 🏗️ App architecture & **clean coding practices**
-* 🚀 Converting raw ideas into **real‑world applications**
+🔥 **Responsive Websites**  
+🎨 **UI / UX Design**  
+✍️ **Engaging Content & Blog Writing**  
+📱 Collaborative Development Projects  
 
----
-
-## 🌱 Currently Learning
-
-* Android development (deepening concepts)
-* Programming logic & structured problem‑solving
-* How high‑quality, scalable apps are designed
+Whether it’s a landing page, portfolio, or full website, I craft digital experiences that look great and work well.
 
 ---
 
-## 💬 Ask Me About
+## 💼 Featured Projects
 
-* Android smartphones & mobile technology
-* App and web ideas & tech explanations
-* Content writing for tech platforms
+🎯 **Portfolio Website** – Modern responsive personal site. :contentReference[oaicite:4]{index=4}  
+🎯 **Business Landing Page** – Clean landing experience optimized for UX. :contentReference[oaicite:5]{index=5}  
 
----
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/wasifali6424)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/wasifali6424)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:wasifali64242@gmail.com)
-
-> 💬 *Open to learning, collaboration, and meaningful tech discussions.*
+Check out all my web work and design experiments on my GitHub repos!
 
 ---
 
-## 💻 Tech Stack
+## 📚 What I’m Learning
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-
----
-
-## 📊 GitHub & Tech Stats
-
-![](https://github-readme-stats.vercel.app/api?username=wasifali6424\&theme=dark\&hide_border=false\&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=wasifali6424\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasifali6424\&theme=dark\&layout=compact)
-
-📈 *Focused on consistency, learning streaks, and gradual improvement.*
+💡 Advanced responsive design  
+💡 UI animation & transitions  
+💡 Web performance & scalability  
+💡 Content strategy for tech platforms
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Collaboration
 
-![](https://github-profile-trophy.vercel.app/?username=wasifali6424\&theme=radical\&no-frame=false\&margin-w=8)
+I’m open to collaborating on:
 
----
+✨ Beginner-friendly web or design projects  
+✨ Open-source documentation  
+✨ Real-world UX and UI solutions
 
-## ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=wasifali6424\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+Let’s build something meaningful together!
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=wasifali6424\&color=6)](https://visitcount.itsvg.in)
+## 📫 Connect With Me
+
+<a href="mailto:your-email@example.com">📧 Email</a> •  
+<a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •  
+<a href="https://instagram.com/your-instagram">Instagram</a> •  
+<a href="https://wa.me/your-whatsapp">WhatsApp</a>
 
 ---
 
-> ⭐ *Focused on learning, consistency, and long‑term growth in tech.*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasifali&show_icons=true&theme=radical" alt="Wasif Ali GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasifali&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 💬 Favorite Quote
+
+> *“Great design is not just how it looks — it’s how it works.”*
+
+---
+
+⭐ *Focused on learning, consistency, and long-term growth in tech.*
 
