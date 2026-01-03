@@ -34,7 +34,7 @@ Android & Mobile Technology Enthusiast • Content Writer • Tech Explorer
 
 🌐[Wasifali.dev](https://wasifalidev.netlify.app) 
  
-🌐[Developer s Tech](https://developerstech.netlify.app)
+🌐[Developers Tech](https://developerstech.netlify.app)
 
 ## 🤝 Open to Collaboration
 
@@ -92,8 +92,8 @@ I’d love to collaborate on:
 ---
 ## 📄 **CODE EDITOR & IDEs**
 
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")]
-   [![Cursor](https://img.shields.io/badge/Cursor-000.svg?style=for-the-badge&logo=cursor&logoColor=white "Cursor")]
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
+   ![Cursor](https://img.shields.io/badge/Cursor-000.svg?style=for-the-badge&logo=cursor&logoColor=white "Cursor")
 
 
 
