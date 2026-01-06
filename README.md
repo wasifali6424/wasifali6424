@@ -2,7 +2,7 @@
 <!--  GitHub Profile README -->
 <!-- ===================== -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00ADB5">Wasif Ali</span></h1>
+<h1 align="center">Hi 👋, I'm <br> <span style="color:#00ADB5">Wasif Ali</span></h1>
 
 <h3 align="center">
 Android & Mobile Technology Enthusiast • Content Writer • Tech Explorer
