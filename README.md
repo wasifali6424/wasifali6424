@@ -108,7 +108,8 @@ I’d love to collaborate on:
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
    ![Cursor](https://img.shields.io/badge/Cursor-000.svg?style=for-the-badge&logo=cursor&logoColor=white "Cursor")
-  ![Antigravity](https://img.shields.io/badge/Powered%20by-Antigravity%20IDE-%23FF4081?style=flat&logo=rocket)
+[![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-%23007ACC.svg?style=flat&logo=visualstudiocode)](https://antigravityide.app/)
+
 
 
 
